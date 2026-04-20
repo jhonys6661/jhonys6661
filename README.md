@@ -1,33 +1,61 @@
-# João Victor de Carvalho Souza Pereira
+# **João Victor de Carvalho Souza Pereira**
 
-Desenvolvedor Front-end focado na criação de interfaces modernas, responsivas e funcionais.  
-Busco constantemente evoluir minhas habilidades e contribuir com soluções eficientes e bem estruturadas.
-
----
-
-## Tecnologias
-
-HTML • CSS • JavaScript • React • Node.js
+💻 Desenvolvedor Front-end
+📧 [jhonyssullivangates@gmail.com](mailto:jhonyssullivangates@gmail.com)
+🔗 https://br.linkedin.com/in/joao-victor-de-carvalho-souza-pereira-38aa77170
 
 ---
 
-## Projetos em destaque
+## 🧾 **Resumo Profissional**
 
-🔗 **Meu Projeto**  
-Descrição breve do projeto (o que faz, qual problema resolve e tecnologias utilizadas)  
-Link: https://seu-projeto.com
-
----
-
-## Experiência e Objetivo
-
-Atualmente em desenvolvimento na área de Front-end, com foco em aprimorar conhecimentos em React e desenvolvimento de aplicações completas.  
-Objetivo de ingressar profissionalmente na área de tecnologia e contribuir com projetos reais.
+💡 Desenvolvedor Front-end focado na criação de interfaces modernas, responsivas e funcionais.
+🚀 Busco constantemente evoluir minhas habilidades e contribuir com soluções eficientes e bem estruturadas em projetos reais.
 
 ---
 
-## Contato
+## 🛠️ **Tecnologias**
 
-LinkedIn: https://br.linkedin.com/in/joao-victor-de-carvalho-souza-pereira-38aa77170
+🔹 HTML
+🔹 CSS
+🔹 JavaScript
+🔹 React
+🔹 Node.js
 
-Email: seuemail@email.com
+---
+
+## 📂 **Projetos em Destaque**
+
+🌐 **Projeto Web**
+📌 Aplicação desenvolvida com foco em usabilidade, responsividade e boas práticas de código.
+🧩 Voltado para resolver problemas reais com uma estrutura organizada e eficiente.
+
+🔗 Link: Em desenvolvimento
+
+---
+
+## 💼 **Experiência**
+
+📈 Em desenvolvimento na área de Front-end, com foco no aprimoramento contínuo em React e na criação de aplicações completas.
+
+---
+
+## 🎯 **Objetivo**
+
+🚀 Ingressar profissionalmente como Desenvolvedor Front-end, contribuindo com projetos reais, adquirindo experiência prática e agregando valor à equipe.
+
+---
+
+## 🎓 **Formação**
+
+📚 Ensino Médio Completo
+📚 Curso Técnico em React.js
+📚 Inglês (nível intermediário)
+
+---
+
+## ⭐ **Informações Adicionais**
+
+✔️ Facilidade de aprendizado
+✔️ Boa comunicação
+✔️ Trabalho em equipe
+✔️ Interesse constante por novas tecnologias
